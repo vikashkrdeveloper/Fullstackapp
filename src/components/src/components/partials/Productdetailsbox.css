@@ -1,0 +1,138 @@
+.product-details-maincontainer {
+  margin-top: 2px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.product-details-all-container {
+  width: 90%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: white;
+}
+.product-details-left-container {
+  margin-top: 10px;
+  width: 600px;
+  height: 90vh;
+  background-color: rgb(255, 255, 255);
+  margin-right: 20px;
+}
+
+.side-product-image-container {
+  width: 100%;
+  height: 460px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.side-product-image-box-container {
+  width: 80px;
+  height: 100%;
+  overflow: hidden;
+}
+.img-container-box-product-container {
+  width: 75%;
+  height: 100%;
+  margin-left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.product-image-show-box {
+  width: 90%;
+  height: 80%;
+}
+.link-buy-now {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: white;
+}
+.favorate-icon-container {
+  bottom: 190px;
+  right: -10px;
+  position: relative;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: rgb(253, 253, 253);
+  border: 1px solid rgb(234, 234, 234);
+  cursor: pointer;
+}
+.heart-icon {
+  font-size: 20px;
+  color: rgb(189, 189, 189);
+}
+.product-buy-container {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.addtocart-container {
+  width: 210px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: rgb(255, 166, 0);
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.buynow-container {
+  width: 210px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: rgb(221, 17, 88);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.productbuying-text {
+  font-size: 14px;
+  color: white;
+}
+
+.addtocartcart-icon {
+  color: white;
+  margin-right: 5px;
+  font-size: 13px;
+}
+
+.side-product-image-box {
+  width: 90%;
+  height: 70px;
+  background-color: aqua;
+  border-radius: 5px;
+  border: 1px solid blue;
+  cursor: pointer;
+  margin: 5px;
+}
+
+
+
+
+
+
+
+
+
+.product-details-right-container {
+  width: 800px;
+  height: 100vh;
+  background-color: rgb(255, 255, 255);
+  margin-bottom: 40px;
+}
